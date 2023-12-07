@@ -1,0 +1,17 @@
+name: simplify_commerce
+description: A simplify commerce package in dart.
+version: 1.0.4
+homepage: https://github.com/Brianluvonga/simplify_commerce_package
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+
+
+dependencies: 
+  http: ^1.1.2
+  crypto: ^3.0.2
+  reflectable: ^4.0.4
